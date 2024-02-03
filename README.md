@@ -1,7 +1,7 @@
 
 <h1 align="center" style="color: #0CFFBC">Golang Backend Engineer</h1>
 <h2 align="center" style="color: #0CFFBC">Blockchain Engineer</h2>
-<h3 align="center">As a seasoned blockchain developer with +5 years of experience, I specialize in building decentralized applications (DApps), writing secure smart contracts, and implementing blockchain solutions for various industries. My expertise lies in utilizing the Ethereum blockchain, Solidity programming language, and web3.js framework to create robust and scalable decentralized systems. With a strong background in software development and a deep understanding of blockchain technology, I am passionate about revolutionizing industries through innovative blockchain solutions.</h3>
+<h3 align="center"></h3>
 
 
 ### Languages  
